@@ -10,7 +10,7 @@
 
 | Version                                         | x.x-OSPy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/releases/tag/vx.x |
+| based on *Model Snapshot* and *Evaluation Plan* |  |
 | OSP Version                                     | y.y                                                          |
 | Qualification Framework Version                 | z.z                                                          |
 
